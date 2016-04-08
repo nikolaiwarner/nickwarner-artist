@@ -1,0 +1,19 @@
+{
+  "name": "nikolaiwarner/artist",
+  "description": "Nick Warner - Artist",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "wpackagist-plugin/database-sync": "0.5.1",
+    "wpackagist-plugin/contact-form-7": "4.4.1",
+    "wpackagist-plugin/amazon-web-services": "0.3.5",
+    "wpackagist-plugin/amazon-s3-and-cloudfront": "0.9.11",
+    "wpackagist-plugin/updraftplus": "1.12.4",
+    "wpackagist-plugin/wp-mail-smtp": "0.9.5"
+  }
+}
